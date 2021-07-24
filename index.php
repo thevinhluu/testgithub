@@ -1,1 +1,2 @@
-tin hoc that la don gian
+<?phptin hoc that la don gian
+?>
